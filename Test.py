@@ -421,7 +421,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif Alvi in ["1", "01"]:
-			os.system("https://www.facebook.com/sabbir.islam.60")
+			os.system ("https://mbasic.facebook.com/F3K.Cyber.420").text
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Apna nam type kro")
@@ -1316,7 +1316,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrBALOCH -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/Sek-zain/meg/blob/main/Approval.txt").text
+	r1=requests.get("https://github.com/Sek-zain/meg/blob/main/Approval.txt")
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
@@ -1329,7 +1329,7 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m Alvi Toll Free BUT You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m Alvi Tools Free BUT You Need Get Approved First\033[1;37m\n")
 		print(" \033[1;32m Note : Alvi FREE HA BHAIYO ENJOYA   \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
